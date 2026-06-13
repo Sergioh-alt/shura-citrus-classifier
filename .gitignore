@@ -1,0 +1,15 @@
+config.json
+limon_prueba*.jpg
+limon_prueba_resultado.jpg
+perfiles/
+grupos.json
+test_resultado.json
+clasificador_limones.py
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
